@@ -3,7 +3,7 @@
 
 [[OpenReview](https://openreview.net/forum?id=BOFjRnJ9mX)] [[arXiv](https://arxiv.org/abs/2406.12888)] [[Code](https://github.com/divelab/AIRS)]
 
-The official implementation of A Space Group Symmetry Informed Network for O(3) Equivariant Crystal Tensor Prediction (ICML 2024).
+The official implementation of A Space Group Symmetry Informed Network for O(3) Equivariant Crystal Tensor Prediction (ICML 2024). Forked from AIRS repo [[Code](https://github.com/divelab/AIRS)].
 
 ![cover](figures/GMTNet.png)
 
